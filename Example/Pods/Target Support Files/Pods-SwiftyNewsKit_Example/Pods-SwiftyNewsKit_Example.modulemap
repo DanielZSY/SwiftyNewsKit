@@ -1,0 +1,6 @@
+framework module Pods_SwiftyNewsKit_Example {
+  umbrella header "Pods-SwiftyNewsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

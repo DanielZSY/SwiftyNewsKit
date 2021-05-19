@@ -1,0 +1,6 @@
+framework module SwiftyNewsKit {
+  umbrella header "SwiftyNewsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
